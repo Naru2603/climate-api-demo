@@ -27,4 +27,5 @@ public class ClimateController {
 	{
 		return climateService.getClimateByCity(city);
 	}
+	
 }
